@@ -61,4 +61,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoqaiaWagih&layout=compact)
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/roqaia-khalid-wagih-932804187/)
+<a href="https://www.linkedin.com/in/roqaia-khalid-wagih-932804187/" target="_blank"><img src="https://img.shields.io/badge/-Roqaia%20Khalid%20Wagih-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
