@@ -1,4 +1,3 @@
-# Roqaia
 # 👋 Hi, I'm Roqaia!
 
 ### About Me
