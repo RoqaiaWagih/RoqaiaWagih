@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Roqaia!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Roqaia!
 
+ 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Developer;Embedded%20Linux%20Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5D333&vCenter=true&size=22"></a>
 ### About Me
 - 🔭 I’m currently working on Bash projects
 - 🌱 I’m currently learning Embedded Linux
@@ -42,6 +44,21 @@
 
 
 ### Top Languages
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![CubeIDE](https://img.shields.io/badge/-CubeIDE-05122A?style=flat&logo=stmicroelectronics)&nbsp;
+![Microchip Studio](https://img.shields.io/badge/-Microchip%20Studio-05122A?style=flat&logo=microchip-technology)&nbsp;
+![Code Composer Studio](https://img.shields.io/badge/-Code%20Composer%20Studio-05122A?style=flat&logo=texas-instruments)&nbsp;
+![Communtication Protocols](https://img.shields.io/badge/-Communiction%20Protocols-05122A?style=flat&logo=Communiction%20Protocols)&nbsp;
+![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat&logo=RTOS)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux)&nbsp;
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoqaiaWagih&layout=compact)
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/roqaia-khalid-wagih-932804187/)
