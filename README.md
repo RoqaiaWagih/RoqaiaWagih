@@ -3,10 +3,10 @@
 ### About Me
 - 🔭 I’m currently working on Bash projects
 - 🌱 I’m currently learning Embedded Linux
-- 👯 I’m looking to collaborate on open-source projects in Embedded system and Embedded Linux
+- 👯 I’m looking to collaborate on open-source projects in Embedded systems and Embedded Linux
 - 💬 Ask me about C ,C++ ,Bash ,Linux ,AVR ,ARM & RTOS
 - 📫 How to reach me: roqaia.wagih.mohammed@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  [!False]   It's funny because it's True
 
 <!--
 <details>
