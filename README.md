@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Roqaia!
 
  
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Developer;Embedded%20Linux%20Software%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=5D333&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Developer;Embedded%20Linux%20Software%20Developer;No%20one%20is%20you;and%20that%20is%20your%20power&font=Fira%20Code&center=true&width=440&height=45&color=4c00da&vCenter=true&size=22"></a>
 ### About Me
 - 🔭 I’m currently working on Bash projects
 - 🌱 I’m currently learning Embedded Linux
