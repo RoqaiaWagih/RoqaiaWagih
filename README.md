@@ -3,8 +3,6 @@
  
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Developer;Embedded%20Linux%20Software%20Developer;No%20one%20is%20you;and%20that%20is%20your%20power&font=Fira%20Code&center=true&width=440&height=45&color=4c00da&vCenter=true&size=22"></a>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/RoqaiaWagih" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @RoqaiaWagih on GitHub">Follow @RoqaiaWagih</a>
 ### About Me
 - 🔭 I’m currently working on Bash projects
 - 🌱 I’m currently learning Embedded Linux
