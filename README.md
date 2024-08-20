@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Developer;Embedded%20Linux%20Software%20Developer;No%20one%20is%20you;and%20that%20is%20your%20power&font=Fira%20Code&center=true&width=440&height=45&color=4c00da&vCenter=true&size=22"></a>
 
 ### About Me
-- 🔭 I’m currently working on Bash projects
+- 🔭 I’m currently working on Bash & C++(OOP) projects
 - 🌱 I’m currently learning Embedded Linux
 - 👯 I’m looking to collaborate on open-source projects in Embedded systems and Embedded Linux
 - 💬 Ask me about C ,C++ ,Bash ,Linux ,AVR ,ARM & RTOS
