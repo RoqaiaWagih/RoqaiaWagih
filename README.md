@@ -26,8 +26,11 @@
   <a href="https://github.com/RoqaiaWagih"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Roqaia&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/RoqaiaWagih"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-## 📘 open source projects that I contributed to 
+## 📘 project I currently work on 
 
+<a href="https://github.com/RoqaiaWagih/Embedded_Linux"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoqaiaWagih&repo=Embedded_Linux&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+
+## 📘 open source projects that I contributed to 
 
    <a href="https://github.com/AbdelrahmanMohsenMohamed1/V2V-Adaptive-Cruise-Control-STM32"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanMohsenMohamed1&repo=V2V-Adaptive-Cruise-Control-STM32&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/Tarek191020/FOTA-ADAS-Project"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Tarek191020&repo=FOTA-ADAS-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
@@ -41,6 +44,14 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRoqaia"/></a>
   <a href="https://github.com/RoqaiaWagih?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Roqaia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+## 📘 My open source projects 
+
+<a href="https://github.com/RoqaiaWagih/kernel-Bash-project"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoqaiaWagih&repo=kernel-Bash-project&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/RoqaiaWagih/Smart-light-control-system"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoqaiaWagih&repo=Smart-light-control-system&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/RoqaiaWagih/Automated-Door-Control-System"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=RoqaiaWagih&repo=Automated-Door-Control-System&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/RoqaiaWagih/NTI_employeeProject"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=RoqaiaWagih&repo=NTI_employeeProject&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
 
 
 ### Top Languages
