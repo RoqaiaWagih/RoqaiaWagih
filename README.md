@@ -29,7 +29,7 @@
 ## 📘 project I currently work on 
 
 <a href="https://github.com/RoqaiaWagih/Embedded_Linux"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoqaiaWagih&repo=Embedded_Linux&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-
+<a href="https://github.com/RoqaiaWagih/SQL"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RoqaiaWagih&repo=SQL&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 ## 📘 open source projects that I contributed to 
 
    <a href="https://github.com/AbdelrahmanMohsenMohamed1/V2V-Adaptive-Cruise-Control-STM32"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanMohsenMohamed1&repo=V2V-Adaptive-Cruise-Control-STM32&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
